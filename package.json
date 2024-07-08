@@ -1,0 +1,23 @@
+{
+  "name": "4rcod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/votre-utilisateur/4rcod.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/votre-utilisateur/4rcod/issues"
+  },
+  "homepage": "https://github.com/votre-utilisateur/4rcod#readme",
+  "dependencies": {
+    "express": "^4.19.2"
+  }
+}
